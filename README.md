@@ -1,11 +1,10 @@
 # Yashar Heidari — Product & Project Specialist Portfolio
 
-Roadmap, delivery, and data-informed prioritization.
+Professional landing page and experience summary.
 
 ## Live
 
-- Live site: https://yheidari.github.io/product-project/
-- Repository: https://github.com/yheidari/product-project
+- Site: https://yheidari.github.io/product-project/
 
 ## Profile
 
@@ -13,7 +12,6 @@ Product & Project Specialist with 5 years of experience owning cross-functional 
 
 ## Contact
 
-- Location: Messina, Italy · Open to Remote
+- Location: Messina, Italy | Open to remote
 - Email: yashaarheidari@gmail.com
 - LinkedIn: https://linkedin.com/in/yheidari
-- GitHub: https://github.com/yheidari/product-project
