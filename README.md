@@ -1,4 +1,4 @@
-# Yashar Heidari ” Product & Project Specialist Portfolio
+# Yashar Heidari — Product & Project Specialist Portfolio
 
 Roadmap, delivery, and data-informed prioritization.
 
